@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Tommy
+  - Sword
+  - Coin
+  - OldMan
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tommy
+  - 'Trees '
+  - Dirt
+  - Grass
+  - Enemy
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Trees
+    uniqueID: 229165117
+    locked: 0
+  - name: Tommy
+    uniqueID: 1624313935
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hearts
+    uniqueID: 552313847
+    locked: 0
